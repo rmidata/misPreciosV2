@@ -1,0 +1,12 @@
+groups:[
+"Administrators",
+"basic",
+"basic_users",
+"SERVOY_DEFAULT_GROUP",
+"Standard",
+"users"
+],
+usergroups:{
+
+},
+users:[]

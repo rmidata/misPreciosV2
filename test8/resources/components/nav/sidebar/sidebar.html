@@ -1,0 +1,4 @@
+
+	<ul class="nav nav-sidebar">
+		<li ng-repeat="navItem in model.navItems"><a href="#" svy-click="handlers.onNavItemClick($event, {{navItem.id}}, '{{navItem.title}}', '{{navItem.formName}}')">{{navItem.title}}</a></li>
+	</ul>

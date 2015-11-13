@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_05-b06 (Oracle Corporation)
+
+Name: phoneGap/phoneGap.spec
+Web-Service: True
+
+Name: geolocation/phoneGapGeolocation.spec
+Web-Service: True
+
+Name: deviceInfo/deviceInfo.spec
+Web-Service: True
+
+Name: networkInfo/networkInfo.spec
+Web-Service: True
+
+Name: statusBar/statusBar.spec
+Web-Service: True
+
+Name: barCode/barCode.spec
+Web-Service: True
+
+Name: camera/camera.spec
+Web-Service: True
+
+Name: pushNotification/pushNotification.spec
+Web-Service: True
+
