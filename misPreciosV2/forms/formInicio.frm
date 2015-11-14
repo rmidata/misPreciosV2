@@ -2,7 +2,7 @@ encapsulation:60,
 items:[
 {
 location:"164,115",
-onActionMethodID:"-1",
+onActionMethodID:"7ECDC5F2-C8BD-433B-831E-E51111E0A3A4",
 size:"80,20",
 text:"Exit",
 typeid:7,
