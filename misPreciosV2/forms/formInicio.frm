@@ -1,7 +1,7 @@
 encapsulation:60,
 items:[
 {
-location:"94,126",
+location:"164,115",
 onActionMethodID:"-1",
 size:"80,20",
 text:"Exit",
